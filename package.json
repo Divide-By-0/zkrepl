@@ -21,6 +21,9 @@
     "resolutions": {
         "ffjavascript": "0.2.56"
     },
+    "engines": {
+        "node": "15"
+    },
     "homepage": "https://github.com/antimatter15/zkrepl#readme",
     "dependencies": {
         "@iden3/binfileutils": "^0.0.11",
