@@ -22,7 +22,7 @@
         "ffjavascript": "0.2.56"
     },
     "engines": {
-        "node": "15"
+        "node": ">=15"
     },
     "homepage": "https://github.com/antimatter15/zkrepl#readme",
     "dependencies": {
