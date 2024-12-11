@@ -1,4 +1,4 @@
-pragma circom 2.0.1;
+pragma circom 2.2.1;
 
 
 template Example () {
